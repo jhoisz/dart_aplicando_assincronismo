@@ -55,6 +55,12 @@ Going back to the future
 The value is 22
 ```
 
+> **Delayed** é usado para criar um período de espera no códido, exemplo:
+
+```dart
+Future.delayed(Duration(seconds: 5));
+```
+
 ## Aluna e Desenvolvedora
 
 | [<img src="https://avatars.githubusercontent.com/u/57508736?v=4" width=115><br><sub>Jhoisnáyra Vitória</sub>](https://github.com/jhoisz) |
